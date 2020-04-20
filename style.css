@@ -1,20 +1,22 @@
 *{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  background-color: #0F5474;
-  color: #FFFAFF; }
+  background-image: url(image.jpeg);
+  color: black; }
 
 .main {
   height: 100vh; }
 
   .container {
-  position: relative;
+  position: ;
   width: 100%;
   max-width: 1080px;
   margin: 0 auto;
   padding: 0 20px;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  text-align: center; 
+  margin-top: 300px;}

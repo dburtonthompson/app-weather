@@ -1,0 +1,22 @@
+{
+  "name": "weather-app1",
+  "version": "1.0.0",
+  "description": "Weather app that uses zipcode to get the weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dburtonthompson/app-weather.git"
+  },
+  "author": "dburtonthompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dburtonthompson/app-weather/issues"
+  },
+  "homepage": "https://github.com/dburtonthompson/app-weather#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
